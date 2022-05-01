@@ -1,0 +1,40 @@
+@font-face {
+    font-family: Fredoka;
+    src: url('./assets/Fonts/Fredoka/static/Fredoka/Fredoka-Regular.ttf');
+}
+
+.threedot {
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.dotmenuitem {
+    margin-right: 14px;
+    font-size: 20px;
+    color: rgb(182, 196, 198);
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.resbar {
+    color: #fff;
+    margin-right: 10px;
+    font-size: 25px;
+    cursor: pointer;
+    display: none;
+}
+
+.resclass {
+    width: 100%;
+}
+
+@media screen and (max-width:1420px) {
+    .resbar {
+        display: flex !important;
+    }
+}
