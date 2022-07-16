@@ -9,8 +9,6 @@
     font-weight: bold;
 }
 
-
-
 .dotmenuitem {
     margin-right: 14px;
     font-size: 20px;
@@ -29,6 +27,8 @@ input::-webkit-inner-spin-button {
     font-size: 25px;
     cursor: pointer;
     display: none;
+
+
 }
 
 .resclass {
