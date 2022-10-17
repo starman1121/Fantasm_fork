@@ -6,7 +6,7 @@ function App() {
   return (
     <React.Fragment>
       <Suspense fallback={null}>
-        <AppRouter />
+        
       </Suspense>
     </React.Fragment>
   );
