@@ -5,9 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 function App() {
   return (
     <React.Fragment>
-      <Suspense fallback={null}>
-        
-      </Suspense>
+     
     </React.Fragment>
   );
 }
